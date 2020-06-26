@@ -4,10 +4,11 @@
   "theme_color": "#fc60a7",
   "background_color": "#00f3ff",
   "display": "fullscreen",
-  "Scope": "/cmr",
-  "start_url": "/cmr/?utm_source=pwa",
+  "Scope": "/",
+  "start_url": "/?utm_source=pwa",
   "icons": [
     {
+
       "src": "images/icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
